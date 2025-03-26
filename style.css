@@ -1,0 +1,39 @@
+.pageHeader{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tittle {
+    display: flex;
+    justify-content: space-between; 
+    min-width: 90%;
+    
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+* body {
+    background-color: gray;
+}
+#h3 {
+    color: grey;
+}
+p {
+    padding: 20px;
+}
+.contenido {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
